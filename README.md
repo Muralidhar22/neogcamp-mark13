@@ -7,3 +7,6 @@ If your birthday is not a palindrome then it will display by how many days you m
 - HTML
 - CSS
 - JavaScript
+
+## Live Site
+[Live here](https://muralidhar22.github.io/neogcamp-mark13/), Hosted using github pages.
